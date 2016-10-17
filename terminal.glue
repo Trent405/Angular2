@@ -1,0 +1,17 @@
+█ [ F:\WebPages\Angular2\lippy-chick ] cd
+Please enter a path following the 'cd' command
+
+█ [ F:\WebPages\Angular2\lippy-chick ] cd app
+Directory path 'app' does not exist
+
+█ [ F:\WebPages\Angular2\lippy-chick\src\app ] cd src\app
+F:\WebPages\Angular2\lippy-chick\src\app
+
+█ [ F:\WebPages\Angular2\lippy-chick\src\app ] ng g c home-page --flat
+installing component
+  create src\app\home-page.component.css
+  create src\app\home-page.component.html
+  create src\app\home-page.component.spec.ts
+  create src\app\home-page.component.ts
+
+ 
